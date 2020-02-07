@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5711b0fe9493e7a418539499e24e271f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - basketPrefab: {fileID: 1045461662114272943, guid: 5940677f45cfab541bd49692694aa776,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
